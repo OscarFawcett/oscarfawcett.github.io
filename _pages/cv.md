@@ -24,7 +24,7 @@ Experience
 **Undergraduate Researcher, Fall 2021**
   * Dept. of Statistics and Operations Research, University of North Carolina at Chapel Hill, Chapel Hill, NC
   * Duties included: performing statistical analysis on new and modern graph clustering algorithms
-  * Supervisor: Nicolas Fraiman
+  * Supervisor: Dr. Nicolas Fraiman
 
 **Professional Math Tutor, Fall 2018 - Spring 2021**
   * Learning Lab, Cape Fear Community College, Wilmington, NC
