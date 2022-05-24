@@ -38,7 +38,6 @@ Experience
   
 Skills
 ======
-**Software**
-R, Python, Dropbox, LaTex, AMPL, Qualtrics
+**Software:** R, Python, Dropbox, LaTex, AMPL, Qualtrics
 
 
