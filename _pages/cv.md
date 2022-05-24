@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**University of North Carolina at Chapel Hill**
+B.S. in Statistics and Analytics, Data Science minor, Fall 2022
+3.6 GPA
+
+**Cape Fear Community College**
+Associates in Science, Fall 2019
+4.0 GPA
 
 Work experience
 ======
