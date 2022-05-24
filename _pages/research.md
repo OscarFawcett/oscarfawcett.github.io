@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Does this work?
+Optimization for statistics, machine learning, theoretical statistics, statistics education 
