@@ -1,10 +1,20 @@
 ---
 layout: archive
-title: "Research Interests"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Optimization for statistics, machine learning, theoretical statistics, statistics education 
+Research Interests
+=====
+
+
+Brain Connectivity Networks
+=====
+
+
+Network Clustering
+=====
+
