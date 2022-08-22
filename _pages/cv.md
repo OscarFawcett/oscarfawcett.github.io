@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-
 <a href="CV_august_2022.pdf" target="_blank">PDF version of my CV</a>
