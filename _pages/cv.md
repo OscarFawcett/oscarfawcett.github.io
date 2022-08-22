@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="CV_august_2022.pdf" target="_blank">PDF version of my CV</a>
+[PDF version of my CV](https://oscarfawcett.github.io/files/CV_august_2022.pdf)
