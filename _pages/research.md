@@ -17,6 +17,7 @@ Below are brief summaries of my past and current research projects.
 Brain Connectivity Networks
 =====
 
+![](fc2.jpg)
 
 This research utilized graph theory measures of similarity to compare the functional connectivity networks of the same subject over different imaging sessions. 
 
