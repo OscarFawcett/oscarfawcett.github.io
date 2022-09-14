@@ -23,4 +23,6 @@ This research utilized graph theory measures of similarity to compare the functi
 Network Clustering
 =====
 
+![LP Clustering](images/clustering.PNG)
+
 This research primarily focused on studying modern network clustering algorithms and analyzing their performance on real-world data with a known "ground-truth" clustering, and on synthetic data generated via the stochastic block model.
