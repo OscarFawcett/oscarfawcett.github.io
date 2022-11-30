@@ -10,20 +10,13 @@ author_profile: true
 Research Interests
 =====
 
-My research interests with regards to the clustering, hypothesis testing, and random models that can be applied to network data. I am also broadly interested in statistics education and statistics philosophy.
+My research interests with regards to high dimensional and network statistics. I am also broadly interested in statistics education and statistics philosophy.
 
-Below are brief summaries of my past and current research projects.
-
-Brain Connectivity Networks
+Current Research: Connectome Fingerprinting
 =====
 
-![](fc2.jpg)
+![](fmri_processing.jpg)
 
-This research utilized graph theory measures of similarity to compare the functional connectivity networks of the same subject over different imaging sessions. 
+The problem of connectome fingerprinting is centered around the process of identifying an individual solely based on a network representation of their functional magnetic resonance imaging (fMRI), a noninvasive neuroimaging method that indirectly measures brain activity in-vivo. This is typically done by collecting fMRI data for a group of subjects across two imaging sessions, then calculating the distance between each network in the first session to all networks in the second session, then predicting two networks to be from the same subject if they have the minimum distance between one another. In this research, we integrate measures of distance found in traditional graph theory, such as edit and spectral distance. You can find a copy of the poster presentation a gave on this research here. 
 
-Network Clustering
-=====
 
-![](pic3.PNG)
-
-This research primarily focused on studying modern network clustering algorithms and analyzing their performance on real-world data with a known "ground-truth" clustering, and on synthetic data generated via the stochastic block model.
