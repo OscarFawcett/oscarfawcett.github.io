@@ -10,7 +10,7 @@ author_profile: true
 Research Interests
 =====
 
-My research interests with regards to high dimensional and network statistics. I am also broadly interested in statistics education and statistics philosophy.
+My research interests are with regards to the analysis of high dimensional datasets, particularly those with a network representation. I am also broadly interested in statistics education and statistics philosophy.
 
 Current Research: Connectome Fingerprinting
 =====
