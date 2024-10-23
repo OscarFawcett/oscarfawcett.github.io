@@ -3,8 +3,8 @@ main:
   - title: "Consulting"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+   # url: /teaching/
     
   - title: "CV"
     url: /cv/
