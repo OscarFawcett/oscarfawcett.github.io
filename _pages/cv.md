@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version of my CV](https://oscarfawcett.github.io/files/CV_-_Oscar_Fawcett.pdf)
+[PDF version of my CV](https://oscarfawcett.github.io/files/CV_november_2024.pdf)
